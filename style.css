@@ -98,7 +98,7 @@ h3{
    
    .intro-para{
     
-    width: 602px;
+    width: 610px;
     max-width: 90%;
     margin: auto;
     padding-bottom: -10em
@@ -156,7 +156,6 @@ h3{
     padding-top: 180px; 
     margin-left: auto;
     margin-right: auto;
-
 }
 
 .intro .big {
@@ -172,17 +171,17 @@ h3{
 
 .intro .byline {
     font-family: 'EB Garamond';
-    font-size: 16px;
-    font-weight: 200;
-    margin-top: 20px
+    font-size: 20px;
+    font-weight: 600;
+    /* margin-top: 100px */
 }
 
 .subheader{
-    font-size: 23px;
+    font-size: 24px;
     max-width: 700px;
     line-height: 25px;
     margin: auto;
-    padding-top: 30px;
+    padding-top: 10px;
     padding-bottom:50px;
 
 
