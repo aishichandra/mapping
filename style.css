@@ -16,6 +16,12 @@
   padding-left:0.5em;
 }
 
+body::after{
+  position:absolute; width:0; height:0; overflow:hidden; z-index:-1; 
+  content:url("ai2html-output/Asset 43.svg") url("ai2html-output/Asset 42.svg") url("ai2html-output/Asset 41.svg") url("ai2html-output/Asset 46.svg") url("ai2html-output/Asset 47.svg");   
+}
+
+
 h3{
   font-size: 36px;
   font-family: 'EB Garamond';
